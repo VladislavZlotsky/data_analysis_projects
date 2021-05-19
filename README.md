@@ -1,9 +1,10 @@
 # Репозиторий-портфолио для моих DA проектов
+
+Настоятельно рекомендую смотреть проекты через **NBViwer** (https://nbviewer.jupyter.org/github/VladislavZlotsky/data_analysis_projects/tree/main/), т.к. гитхаб не рендерит оглавления проектов и интерактивные графики, которых тут большинство.
+
 **Для связи со мной**: 
 - vk: https://vk.com/zlotsky
 - telegram: https://t.me/da_zlotsky
-
-Настоятельно рекомендую смотреть проекты через **NBViwer** (https://nbviewer.jupyter.org/github/VladislavZlotsky/data_analysis_projects/tree/main/), т.к. гитхаб не рендерит оглавления проектов и интерактивные графики, которых тут большинство.
 
 
 ## О проектах:
