@@ -3,7 +3,7 @@
 - vk: https://vk.com/zlotsky
 - telegram: https://t.me/da_zlotsky
 
-Рекомендую смотреть проекты через NBViwer (https://nbviewer.jupyter.org/github/VladislavZlotsky/data_analysis_projects/tree/main/), т.к. гитхаб не рендерит оглавления проектов, а также интерактивные графики (которых у меня большинство), а также гитхаб немного страшненький.
+Рекомендую смотреть проекты через NBViwer (https://nbviewer.jupyter.org/github/VladislavZlotsky/data_analysis_projects/tree/main/), т.к. гитхаб не рендерит оглавления проектов, а также интерактивные графики.
 
 О проектах:
 - проекты с 6-ти месячного курса Профессия аналитик данных. Яндекс.Практикум;
