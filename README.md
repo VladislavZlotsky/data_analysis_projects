@@ -17,7 +17,7 @@
  - Данные о клиентах банка. 
  - Цель: определить факторы, влияющие на платежеспособность. 
  - Инструменты: numpy/pandas/seaborn/pymystem3(лемматизация для категоризации целей кредита);
-#### 2. [project2_real_estate_data_saint_petersburg](https://nbviewer.jupyter.org/github/VladislavZlotsky/data_analysis_projects/blob/main/project2_real_estate_data_saint_petesburg/project2_real_estate_data_saint_petesburg.ipynb):
+#### 2. [project2_real_estate_data_saint_petersburg](https://nbviewer.jupyter.org/github/VladislavZlotsky/data_analysis_projects/blob/main/project2_real_estate_data_saint_petersburg/project2_real_estate_data_saint_petersburg.ipynb):
  - Данные о недвижимости Санкт-Петербурга и Ленобласти. 
  - Цель: определить факторы, влияющие на стоимость недвижимости, а также выявить аномалии. 
  - Инструменты: numpy/pandas/plotly;
